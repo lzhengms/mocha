@@ -1,0 +1,30 @@
+{
+  "name": "nd-validator",
+  "version": "1.0.0",
+  "description": "表单校验组件。",
+  "keywords": [],
+  "homepage": "https://github.com/ndfront/nd-validator",
+  "author": {
+    "name": "crossjs",
+    "email": "liwenfu@crossjs.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ndfront/nd-validator.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ndfront/nd-validator/issues"
+  },
+  "licenses": "MIT",
+  "devDependencies": {},
+  "spm": {
+    "main": "index.js",
+    "dependencies": {
+      "jquery": "1.11.1",
+      "nd-widget": "1.0.0"
+    },
+    "devDependencies": {
+      "expect.js": "0.3.1"
+    }
+  }
+}
